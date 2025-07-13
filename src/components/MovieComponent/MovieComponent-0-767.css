@@ -1,0 +1,51 @@
+@media (max-width: 767px) {
+
+
+
+    .postPreviewBig{
+        width: 250px;
+    }
+    .movieComponent{
+        padding-left: 0;
+        width: 300px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        background-color: mintcream;
+        gap: 15px;
+
+
+    }
+    .characteristicDiv{
+        width: 100px;
+        display: block;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        gap: 5px;
+    }
+    .overviewMovie{
+        width: 250px;
+    }
+
+
+
+
+    .posterPreviewAndСharacteristic{
+        width: 300px;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+    .characteristicDiv{
+        width: 300px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        gap: 5px;
+    }
+
+
+
+
+}

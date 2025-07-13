@@ -1,0 +1,17 @@
+@media (max-width: 767px) {
+
+    .carouselPhotoDiv{
+        width: 300px;
+        height: 150px;
+        margin-bottom:40px ;
+
+    }
+
+    .carouselPhotoDiv>img{
+width: 300px;
+        height: 150px;
+    }
+
+
+
+}

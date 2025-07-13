@@ -1,0 +1,12 @@
+@media (max-width: 767px) {
+
+    .moviePage{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color:beige;
+    }
+
+
+
+}

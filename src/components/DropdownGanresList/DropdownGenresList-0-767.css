@@ -1,0 +1,20 @@
+@media (max-width: 767px) {
+
+    .buttonGenresBig{
+        display: none;}
+
+
+    .buttonGenres{
+        width: 40px;
+        height: 50px;
+        background-color: chocolate;
+        border:  solid 1px  chocolate;
+        border-radius: 50%  ;
+        text-align: center;
+        margin-right: 10px;}
+
+    .dropdownItem{
+        background-color: chocolate;}
+
+
+}

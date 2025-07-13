@@ -1,0 +1,13 @@
+.characteristicDiv{
+    width: 450px;
+    display: block;
+    flex-direction: column;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+span{
+    font-family: "Bookman Old Style", serif;
+    color: grey;
+}

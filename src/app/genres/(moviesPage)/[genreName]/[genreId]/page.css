@@ -1,0 +1,8 @@
+.moviesPage{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    background-color: sandybrown;
+}

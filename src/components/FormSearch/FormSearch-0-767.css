@@ -1,0 +1,30 @@
+@media (max-width: 767px) {
+
+    .formComponent {
+        display: block;
+        gap: 20px;
+
+    }
+
+
+    .inputSearch{
+        width: 110px;
+        height: 30px;
+        border-radius: 20px;
+        border: 1px silver solid ;
+        padding-left: 10px;
+    }
+
+    .buttonSearchForm{
+        width: 60px;
+        border-radius: 20px;
+        border: 1px silver solid ;
+    }
+
+
+
+
+
+}
+
+

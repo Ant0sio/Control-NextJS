@@ -1,0 +1,17 @@
+
+
+.buttonGenres{
+    background-color: chocolate;
+    border:  solid 1px  chocolate;
+border-radius: 10px;
+
+
+}
+
+.buttonGenresBig{
+    background-color: chocolate;
+    border:  solid 1px chocolate;
+    border-radius: 10px 0 0 10px;
+
+}
+

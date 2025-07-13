@@ -1,0 +1,14 @@
+
+.homePageDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.lineMovies{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}

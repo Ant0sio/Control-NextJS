@@ -1,0 +1,15 @@
+*{
+    font-family: "Segoe UI Variable" , sans-serif;
+}
+
+header{
+    width:100%;
+    position: fixed;
+    z-index:1;
+}
+
+.children{
+    padding-top:100px ;
+    display:flex;
+    justify-content: center;
+}

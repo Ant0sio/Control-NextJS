@@ -1,0 +1,7 @@
+
+.genreLineCard{
+    font-size: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    color: lightslategray;
+}

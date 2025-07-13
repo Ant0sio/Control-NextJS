@@ -1,0 +1,28 @@
+@media (max-width: 767px) {
+
+
+    .characteristicDiv{
+        width: 300px;
+        display: block;
+        flex-direction: column;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        gap: 5px;
+    }
+
+    span{
+        font-family: "Bookman Old Style", serif;
+        color: grey;
+    }
+.title{
+  width: 300px;
+}
+
+.urlHomePage{
+    width: 200px;
+    font-size: 14px;
+}
+
+
+
+}

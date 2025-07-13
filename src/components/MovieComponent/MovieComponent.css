@@ -1,0 +1,57 @@
+.movieComponent{
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    background-color: mintcream;
+    padding-left: 30px;
+    gap: 15px;
+
+
+}
+.title{
+    width: 500px;
+}
+
+.posterPreviewAndСharacteristic{
+    display: flex;
+    gap: 20px;
+}
+
+
+.characteristicDiv{
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    gap: 5px;
+}
+
+.img{
+    width: 150px;
+    height: 100px;
+
+
+}
+
+.companies{
+display: flex;
+    flex-wrap:wrap ;
+    gap: 30px;
+}
+
+.companieCard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border: burlywood 3px solid;
+    border-radius: 7px;
+
+
+}
+.overviewMovie{
+    width: 700px;
+}
+
+

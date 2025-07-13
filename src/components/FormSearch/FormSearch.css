@@ -1,0 +1,22 @@
+
+
+.formComponent {
+    display: flex;
+    gap: 20px;
+
+}
+.inputSearch{
+    width: 300px;
+    height: 40px;
+    border-radius: 20px;
+    border: 1px silver solid ;
+    padding-left: 20px;
+}
+
+.buttonSearchForm{
+    width: 150px;
+    border-radius: 20px;
+    border: 1px silver solid ;
+}
+
+

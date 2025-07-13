@@ -1,0 +1,19 @@
+
+@media (max-width: 767px) {
+    .headerMy{
+        width: 100%;
+        display: flex;
+        justify-content: start;
+        align-items: center;
+        gap: 5px;
+    }
+
+
+
+    .name{
+        display: none;
+    }
+
+
+}
+

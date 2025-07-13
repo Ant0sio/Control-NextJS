@@ -1,0 +1,16 @@
+@media (max-width: 767px) {
+
+    .popularMovieDiv{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 300px;
+        gap: 20px;
+
+
+    }
+
+
+
+
+}

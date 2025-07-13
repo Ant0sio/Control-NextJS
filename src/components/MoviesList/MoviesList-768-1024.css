@@ -1,0 +1,11 @@
+@media (min-width: 768px) and (max-width: 1024px) {
+
+    .moviesList {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 600px;
+        gap: 20px;}
+
+
+}
